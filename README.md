@@ -10,5 +10,6 @@
 --- 
 ## 💬 Let’s Connect!
 📧 [Email Me](mailto:abderrahmane.ouaday@gmail.com)  
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/abderrahmane-ouaday)  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/abderrahmane-ouaday) 
+🌐 [Portfolio](https://aouaday.me)
 📍 Based in **Casablanca, Morocco**
