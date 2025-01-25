@@ -27,18 +27,17 @@
 ### **Programming Languages:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ---
 
-## 🚀 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneOd&layout=compact&theme=radical)  
-
----
-
-## 📈 GitHub Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbderrahmaneOd&theme=radical)](https://git.io/streak-stats)  
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbderrahmaneOd&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneOd&theme=radical" />
+</p>
 
 ---
 
@@ -51,11 +50,7 @@
 ---
 
 ## 💬 Let’s Connect! 
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-ouaday)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=firefox&logoColor=white)](https://aouaday.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahmane.ouaday@gmail.com)  
 📍 Based in **Casablanca, Morocco**  
-
---- 
