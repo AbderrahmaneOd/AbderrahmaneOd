@@ -1,10 +1,10 @@
 # Hi there! 👋 I’m Abderrahmane Ouaday  
 
-🎓 **Final-year engineering student** specializing in **Cloud Computing** and **DevOps**, currently seeking an **End-of-Study Internship** in Cloud and DevOps. Proficient in multi-cloud environments, container orchestration, and automating cloud infrastructures. I enjoy solving complex technical challenges and building efficient, secure systems.  
+**Software Engineer** specializing in **Cloud Computing** and **DevOps**. Proficient in multi-cloud environments, container orchestration, and automating cloud infrastructures. I enjoy solving complex technical challenges and building efficient, secure systems.  
 
 ---
 
-## 🛠 Technologies & Skills  
+## Technologies & Skills  
 
 ### **Cloud & Orchestration:**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -31,25 +31,32 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbderrahmaneOd&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneOd&theme=radical" />
-</p>
+## GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://readme-stats-github.pages.dev/api?username=AbderrahmaneOd&theme=light" />
+    </td>
+    <td>
+      <img src="https://readme-stats-github.pages.dev/api/top-langs?username=AbderrahmaneOd&theme=light" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📜 Certifications  
+## Certifications  
+- **Certified Kubernetes Application Developer (CKAD)**
+- **Associate Cloud Engineer Certification**
+- **Microsoft Certified: Azure Fundamentals**
 - **Oracle Cloud Infrastructure Certified DevOps Professional**  
-- **AWS Academy Cloud Foundations**  
 - **Terraform Associate (003)**  
-- **Microsoft Certified: Azure Fundamentals**  
+- **AWS Academy Cloud Foundations**  
 
 ---
 
-## 💬 Let’s Connect! 
+## Let’s Connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-ouaday)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=firefox&logoColor=white)](https://aouaday.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahmane.ouaday@gmail.com)  
